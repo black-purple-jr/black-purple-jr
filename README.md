@@ -15,6 +15,7 @@ I'm a software developement student who wants to improve his coding and problem 
 ![github pages](https://img.shields.io/static/v1?label=%20&message=Github%20Pages&color=%23222222&labelColor=%23ff000000&logo=githubpages&logoColor=%23fafafa)
 ![Static Badge](https://img.shields.io/badge/Zed-orange?logo=zedindustries&logoColor=%23084CCF&labelColor=%231F1F1F&color=%23084CCF)
 ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-black?logoColor=%230175C2&labelColor=%231F1F1F&color=%230175C2) 
+![pycharm](https://img.shields.io/static/v1?label=%20&message=Pycharm&color=%23EFE942&labelColor=%23ff000000&logo=pycharm&logoColor=%23EFE942)
 
 
 
