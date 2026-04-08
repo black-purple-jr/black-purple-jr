@@ -8,6 +8,9 @@ I'm a software developement student who wants to improve his coding and problem 
 ![Static Badge](https://img.shields.io/badge/BootStrap-purple?logo=bootstrap&logoColor=%237952B3&labelColor=%231F1F1F&color=%237952B3)
 ![Static Badge](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=%23F7DF1E&labelColor=%231F1F1F&color=%23F7DF1E)
 ![Static Badge](https://img.shields.io/badge/Python-blue?logo=python&logoColor=%233776AB&labelColor=%231F1F1F&color=%233776AB)
+![Static Badge](https://img.shields.io/badge/PHP-violet?logo=php&logoColor=%23777BB4&labelColor=%231F1F1F&color=%23777BB4)
+![Static Badge](https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=%234479A1&labelColor=%231F1F1F&color=%234479A1)
+
 
 * ## Tools / Platforms I work with :
 ![Static Badge](https://img.shields.io/badge/Git-orange?logo=git&logoColor=%23F05032&labelColor=%231F1F1F&color=%23F05032)
