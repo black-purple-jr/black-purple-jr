@@ -1,7 +1,7 @@
 # Who am I :
 I'm a software developement student who wants to improve his coding and problem solving skills to a better level.
 
-# What I use ->
+# What I use :
 * ## I code with : 
 ![Static Badge](https://img.shields.io/badge/HTML-red?logo=html5&logoColor=%23E34F26&labelColor=%231F1F1F&color=%23E34F26)
 ![Static Badge](https://img.shields.io/badge/CSS-purple?logo=css&logoColor=%23663399&labelColor=%231F1F1F&color=%23663399)
