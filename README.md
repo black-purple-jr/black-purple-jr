@@ -61,5 +61,9 @@ stack:
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50" alt="Git"/>
       <br><sub><b>Git</b></sub>
     </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="Visual Studio Code"/>
+      <br><sub><b>VS Code</b></sub>
+    </td>
   </tr>
 </table>
