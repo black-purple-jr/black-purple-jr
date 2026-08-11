@@ -13,42 +13,33 @@ stack:
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" />
-      <br><sub><b>HTML</b></sub>
+      <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML5" />
     </td>
     <td align="center" >
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" />
-      <br><sub><b>CSS</b></sub>
+      <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS3" />
     </td>
     <td align="center" >
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50" alt="Tailwind" />
-      <br><sub><b>Tailwind</b></sub>
+      <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" alt="Tailwind" />
     </td>
     <td align="center" >
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt="BootStrap5" />
-      <br><sub><b>Bootstrap</b></sub>
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50" alt="BootStrap5" />
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
-      <br><sub><b>JavaScript</b></sub>
+      <img src="https://skillicons.dev/icons?i=javascript" width="50" height="50" alt="JavaScript" />
     </td>
   </tr>
   <tr>
     <td align="center" >
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50" height="50" alt="PHP" />
-      <br><sub><b>PHP</b></sub>
+      <img src="https://skillicons.dev/icons?i=php" width="50" height="50" alt="PHP" />
     </td>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50" alt="React" />
-      <br><sub><b>React</b></sub>
+      <img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React" />
     </td>
     <td align="center" >
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" />
-      <br><sub><b>MySQL</b></sub>
+      <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" alt="MySQL" />
     </td>
     <td align="center" >
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python" />
-      <br><sub><b>Python</b></sub>
+      <img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python" />
     </td>
   </tr>
 </table>
@@ -58,12 +49,10 @@ stack:
 <table align="center">
   <tr align="center">
     <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50" alt="Git"/>
-      <br><sub><b>Git</b></sub>
+      <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git"/>
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="Visual Studio Code"/>
-      <br><sub><b>VS Code</b></sub>
     </td>
   </tr>
 </table>
