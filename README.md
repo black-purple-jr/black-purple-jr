@@ -32,7 +32,7 @@ stack:
     <td align="center" >
       <img src="https://skillicons.dev/icons?i=php" width="50" height="50" alt="PHP" />
     </td>
-    <td align="center" width="100">
+    <td align="center">
       <img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React" />
     </td>
     <td align="center" >
