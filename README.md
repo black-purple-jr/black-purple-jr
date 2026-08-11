@@ -36,7 +36,6 @@ stack:
   <img src="https://skillicons.dev/icons?i=sublime" width="50" height="50" alt="sublime"/>
   <img src="https://skillicons.dev/icons?i=vite" width="50" height="50" alt="vite"/>
   <img src="https://skillicons.dev/icons?i=npm" width="50" height="50" alt="npm"/>
-  <img src="https://skillicons.dev/icons?i=pip" width="50" height="50" alt="vite"/>
-  <img src="https://skillicons.dev/icons?i=composer" width="50" height="50" alt="Composer"/>
+  
   
 </div>
