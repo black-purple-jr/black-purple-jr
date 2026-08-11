@@ -17,7 +17,7 @@ stack:
       <br><sub><b>HTML</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" min-width="50" min-height="50" alt="CSS3" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" />
       <br><sub><b>CSS</b></sub>
     </td>
     <td align="center" width="100">
@@ -32,6 +32,8 @@ stack:
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
       <br><sub><b>JavaScript</b></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="100">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50" height="50" alt="PHP" />
       <br><sub><b>PHP</b></sub>
@@ -47,6 +49,17 @@ stack:
     <td align="center" width="100">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python" />
       <br><sub><b>Python</b></sub>
+    </td>
+  </tr>
+</table>
+
+# Tools I use :
+
+<table align="center">
+  <tr align="center">
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50" alt="Git"/>
+      <br><sub><b>Git</b></sub>
     </td>
   </tr>
 </table>
