@@ -17,7 +17,7 @@ stack:
       <br><sub><b>HTML</b></sub>
     </td>
     <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" min-width="50" min-height="50" alt="CSS3" />
       <br><sub><b>CSS</b></sub>
     </td>
     <td align="center" width="100">
