@@ -1,6 +1,14 @@
 # Who am I :
-I'm a software developement student who wants to improve his coding and problem solving skills to a better level.
-
+```yaml
+first_name: Abdellah
+last_name:  DAKIR ALLAH
+nickname:   black-purple-jr
+location:   Morocco
+stack:
+  web:      [HTML, CSS, Tailwind, JS, React, PHP, Laravel]
+  database: [MySQL]
+  GUI:      [Python, PySide6]
+```
 # What I use :
 * ## I code with : 
 ![Static Badge](https://img.shields.io/badge/HTML-red?logo=html5&logoColor=%23E34F26&labelColor=%231F1F1F&color=%23E34F26)
