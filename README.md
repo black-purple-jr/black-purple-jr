@@ -5,7 +5,7 @@ last_name:  DAKIR ALLAH
 nickname:   black-purple-jr
 location:   Morocco
 stack:
-  web:      [HTML, CSS, Tailwind, JS, PHP]
+  web:      [HTML, CSS, Tailwind, JS, React, PHP, Laravel]
   database: [MySQL]
   GUI:      [Python, PySide6]
 ```
@@ -16,8 +16,9 @@ stack:
   <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" alt="Tailwind" />
   <img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50" alt="BootStrap5" />
   <img src="https://skillicons.dev/icons?i=javascript" width="50" height="50" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=php" width="50" height="50" alt="PHP" />
   <img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React" />
+  <img src="https://skillicons.dev/icons?i=php" width="50" height="50" alt="PHP" />
+  <img src="https://skillicons.dev/icons?i=laravel" width="50" height="50" alt="Laravel" />
   <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" alt="MySQL" />
   <img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python" />
   <img src="https://skillicons.dev/icons?i=markdown" width="50" height="50" alt="Markdown" />
@@ -36,6 +37,5 @@ stack:
   <img src="https://skillicons.dev/icons?i=sublime" width="50" height="50" alt="sublime"/>
   <img src="https://skillicons.dev/icons?i=vite" width="50" height="50" alt="vite"/>
   <img src="https://skillicons.dev/icons?i=npm" width="50" height="50" alt="npm"/>
-  
   
 </div>
