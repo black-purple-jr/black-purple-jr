@@ -19,7 +19,6 @@ stack:
 ![Static Badge](https://img.shields.io/badge/React-blue?logo=react&logoColor=%2361DAFB&labelColor=%231F1F1F&color=%2361DAFB)
 ![Static Badge](https://img.shields.io/badge/Python-blue?logo=python&logoColor=%233776AB&labelColor=%231F1F1F&color=%233776AB)
 ![Static Badge](https://img.shields.io/badge/PHP-violet?logo=php&logoColor=%23777BB4&labelColor=%231F1F1F&color=%23777BB4)
-![Static Badge](https://img.shields.io/badge/Laravel-red?logo=Laravel&logoColor=%23FF2D20&labelColor=%231F1F1F&color=%23FF2D20)
 ![Static Badge](https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=%234479A1&labelColor=%231F1F1F&color=%234479A1)
 ![Static Badge](https://img.shields.io/badge/Markdown-black?logo=Markdown&logoColor=%23ffffff&labelColor=%231F1F1F&color=%23ffffff)
 
@@ -29,7 +28,6 @@ stack:
 ![Static Badge](https://img.shields.io/badge/Github-black?logo=github&logoColor=%23ffffff&labelColor=%231F1F1F&color=%23181717)
 ![github pages](https://img.shields.io/static/v1?label=%20&message=Github%20Pages&color=%23222222&labelColor=%23ff000000&logo=githubpages&logoColor=%23fafafa)
 ![Static Badge](https://img.shields.io/badge/Cloudflare-orange?logo=cloudflare&logoColor=%23F38020&labelColor=%231F1F1F&color=%23F38020)
-![Static Badge](https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=%232496ED&labelColor=%231F1F1F&color=%232496ED)
 ![Static Badge](https://img.shields.io/badge/Composer-brown?logo=composer&logoColor=%23885630&labelColor=%231F1F1F&color=%23885630)
 ![Static Badge](https://img.shields.io/badge/npm-red?logo=npm&logoColor=%23CB3837&labelColor=%231F1F1F&color=%23CB3837)
 ![Static Badge](https://img.shields.io/badge/React%20router-white?logo=reactrouter&logoColor=%23CA4245&labelColor=%231F1F1F&color=%23CA4245)
