@@ -4,10 +4,8 @@ first_name: Abdellah
 last_name:  DAKIR ALLAH
 nickname:   black-purple-jr
 location:   Morocco
-stack:
-  web:      [HTML, CSS, Tailwind, JS, React, PHP, Laravel]
-  database: [MySQL]
-  GUI:      [Python, PySide6]
+domains:    [GUI, Web]
+
 ```
 # What I use :
 * ## I code with : 
