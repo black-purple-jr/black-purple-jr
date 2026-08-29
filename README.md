@@ -18,7 +18,6 @@ stack:
   <img src="https://skillicons.dev/icons?i=javascript" width="50" height="50" alt="JavaScript" />
   <img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React" />
   <img src="https://skillicons.dev/icons?i=php" width="50" height="50" alt="PHP" />
-  <img src="https://skillicons.dev/icons?i=laravel" width="50" height="50" alt="Laravel" />
   <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" alt="MySQL" />
   <img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python" />
   <img src="https://skillicons.dev/icons?i=markdown" width="50" height="50" alt="Markdown" />
