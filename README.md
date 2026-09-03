@@ -1,12 +1,17 @@
 # Who am I :
-```yaml
-first_name: Abdellah
-last_name:  DAKIR ALLAH
-nickname:   black-purple-jr
-location:   Morocco
-domains:    [GUI, Web]
+
+```json
+
+{
+  "firstName": "Abdellah",
+  "lastName": "DAKIR ALLAH",
+  "nickname": "black-purple-jr",
+  "location": "Morocco",
+  "domains": ["GUI", "Web"]
+}
 
 ```
+
 # What I use :
 * ## I code with : 
 ![Static Badge](https://img.shields.io/badge/HTML-red?logo=html5&logoColor=%23E34F26&labelColor=%231F1F1F&color=%23E34F26)
