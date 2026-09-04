@@ -10,7 +10,7 @@
   "domains": {
     "Web developement": ["HTML", "CSS", "Tailwind", "JavaScript", "React", "PHP"],
     "Database": ["MySQL"],
-    "GUI": ["Python", "PyQt", "PySide6"]
+    "GUI": ["Python", "PyQt", "PySide"]
   }
 }
 
