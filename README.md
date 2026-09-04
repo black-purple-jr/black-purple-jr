@@ -7,7 +7,11 @@
   "lastName": "DAKIR ALLAH",
   "nickname": "black-purple-jr",
   "location": "Morocco",
-  "domains": ["GUI", "Web"]
+  "domains": {
+    "Web developement": ["HTML", "CSS", "Tailwind", "JavaScript", "React", "PHP"],
+    "Database": ["MySQL"],
+    "GUI": ["Python", "PyQt", "PySide6"]
+  }
 }
 
 ```
