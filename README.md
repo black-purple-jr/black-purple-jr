@@ -27,6 +27,8 @@
 ![Static Badge](https://img.shields.io/badge/Python-blue?logo=python&logoColor=%233776AB&labelColor=%231F1F1F&color=%233776AB)
 ![Static Badge](https://img.shields.io/badge/PHP-violet?logo=php&logoColor=%23777BB4&labelColor=%231F1F1F&color=%23777BB4)
 ![Static Badge](https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=%234479A1&labelColor=%231F1F1F&color=%234479A1)
+![Static Badge](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=%235FA04E&labelColor=%231F1F1F&color=%235FA04E)
+![Static Badge](https://img.shields.io/badge/Express.js-black?logo=Express&logoColor=%23ffffff&labelColor=%231F1F1F&color=%230A0A0A)
 ![Static Badge](https://img.shields.io/badge/Markdown-black?logo=Markdown&logoColor=%23ffffff&labelColor=%231F1F1F&color=%23ffffff)
 
 
