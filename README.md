@@ -1,4 +1,4 @@
-# Who am I :
+# Hi, I'm Abdellah 👋
 
 ```json
 
@@ -7,32 +7,31 @@
   "lastName": "DAKIR ALLAH",
   "nickname": "black-purple-jr",
   "location": "Morocco",
-  "domains": {
-    "Web development": ["HTML", "CSS", "Tailwind", "JavaScript", "React", "PHP"],
-    "Database": ["MySQL"],
-    "Desktop GUI": ["PyQt", "PySide"]
-  }
+  "domains": ["Full-stack web development", "Desktop GUIs"]
 }
 
 ```
 
 # What I use :
-* ## I code with : 
+
+## I code with : 
+
 ![Static Badge](https://img.shields.io/badge/HTML-red?logo=html5&logoColor=%23E34F26&labelColor=%231F1F1F&color=%23E34F26)
 ![Static Badge](https://img.shields.io/badge/CSS-purple?logo=css&logoColor=%23663399&labelColor=%231F1F1F&color=%23663399)
 ![Static Badge](https://img.shields.io/badge/BootStrap-purple?logo=bootstrap&logoColor=%237952B3&labelColor=%231F1F1F&color=%237952B3)
 ![Static Badge](https://img.shields.io/badge/Tailwind-blue?logo=tailwindcss&logoColor=%2306B6D4&labelColor=%231F1F1F&color=%2306B6D4)
 ![Static Badge](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=%23F7DF1E&labelColor=%231F1F1F&color=%23F7DF1E)
 ![Static Badge](https://img.shields.io/badge/React-blue?logo=react&logoColor=%2361DAFB&labelColor=%231F1F1F&color=%2361DAFB)
-![Static Badge](https://img.shields.io/badge/Python-blue?logo=python&logoColor=%233776AB&labelColor=%231F1F1F&color=%233776AB)
 ![Static Badge](https://img.shields.io/badge/PHP-violet?logo=php&logoColor=%23777BB4&labelColor=%231F1F1F&color=%23777BB4)
 ![Static Badge](https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=%234479A1&labelColor=%231F1F1F&color=%234479A1)
+![Static Badge](https://img.shields.io/badge/Python-blue?logo=python&logoColor=%233776AB&labelColor=%231F1F1F&color=%233776AB)
+![Static Badge](https://img.shields.io/badge/PyQt-blue?logo=qt&logoColor=%2341CD52&labelColor=%231F1F1F&color=%2341CD52)
 ![Static Badge](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=%235FA04E&labelColor=%231F1F1F&color=%235FA04E)
 ![Static Badge](https://img.shields.io/badge/Express.js-black?logo=Express&logoColor=%23ffffff&labelColor=%231F1F1F&color=%230A0A0A)
 ![Static Badge](https://img.shields.io/badge/Markdown-black?logo=Markdown&logoColor=%23ffffff&labelColor=%231F1F1F&color=%23ffffff)
 
 
-* ## I work with :
+## I work with :
 ![Static Badge](https://img.shields.io/badge/Git-orange?logo=git&logoColor=%23F05032&labelColor=%231F1F1F&color=%23F05032)
 ![Static Badge](https://img.shields.io/badge/Github-black?logo=github&logoColor=%23ffffff&labelColor=%231F1F1F&color=%23181717)
 ![github pages](https://img.shields.io/static/v1?label=%20&message=Github%20Pages&color=%23222222&labelColor=%23ff000000&logo=githubpages&logoColor=%23fafafa)
