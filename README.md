@@ -8,9 +8,9 @@
   "nickname": "black-purple-jr",
   "location": "Morocco",
   "domains": {
-    "Web developement": ["HTML", "CSS", "Tailwind", "JavaScript", "React", "PHP"],
+    "Web development": ["HTML", "CSS", "Tailwind", "JavaScript", "React", "PHP"],
     "Database": ["MySQL"],
-    "GUI": ["PyQt", "PySide"]
+    "Desktop GUI": ["PyQt", "PySide"]
   }
 }
 
@@ -37,8 +37,9 @@
 ![Static Badge](https://img.shields.io/badge/Github-black?logo=github&logoColor=%23ffffff&labelColor=%231F1F1F&color=%23181717)
 ![github pages](https://img.shields.io/static/v1?label=%20&message=Github%20Pages&color=%23222222&labelColor=%23ff000000&logo=githubpages&logoColor=%23fafafa)
 ![Static Badge](https://img.shields.io/badge/Cloudflare-orange?logo=cloudflare&logoColor=%23F38020&labelColor=%231F1F1F&color=%23F38020)
+![Static Badge](https://img.shields.io/badge/PyPI-blue?logo=pypi&logoColor=%233775A9&labelColor=%231F1F1F&color=%233775A9)
 ![Static Badge](https://img.shields.io/badge/Composer-brown?logo=composer&logoColor=%23885630&labelColor=%231F1F1F&color=%23885630)
-![Static Badge](https://img.shields.io/badge/npm-red?logo=npm&logoColor=%23CB3837&labelColor=%231F1F1F&color=%23CB3837)
+![Static Badge](https://img.shields.io/badge/NPM-red?logo=npm&logoColor=%23CB3837&labelColor=%231F1F1F&color=%23CB3837)
 ![Static Badge](https://img.shields.io/badge/React%20router-white?logo=reactrouter&logoColor=%23CA4245&labelColor=%231F1F1F&color=%23CA4245)
 ![Static Badge](https://img.shields.io/badge/Vite-purple?logo=vite&logoColor=%239135FF&labelColor=%231F1F1F&color=%239135FF)
 ![Static Badge](https://img.shields.io/badge/Zed-blue?logo=zedindustries&logoColor=%23084CCF&labelColor=%231F1F1F&color=%23084CCF)
