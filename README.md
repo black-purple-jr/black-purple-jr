@@ -41,7 +41,8 @@
 ![Static Badge](https://img.shields.io/badge/React%20router-white?logo=reactrouter&logoColor=%23CA4245&labelColor=%231F1F1F&color=%23CA4245)
 ![Static Badge](https://img.shields.io/badge/Vite-purple?logo=vite&logoColor=%239135FF&labelColor=%231F1F1F&color=%239135FF)
 ![Static Badge](https://img.shields.io/badge/Zed-blue?logo=zedindustries&logoColor=%23084CCF&labelColor=%231F1F1F&color=%23084CCF)
-![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-blue?logoColor=%230175C2&labelColor=%231F1F1F&color=%230175C2) 
+![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-blue?logoColor=%230175C2&labelColor=%231F1F1F&color=%230175C2)
+![Static Badge](https://img.shields.io/badge/Android%20Studio-green?logo=androidstudio&logoColor=%233DDC84&labelColor=%231F1F1F&color=%233DDC84)
 ![Static Badge](https://img.shields.io/badge/PyCharm-yellow?logo=pycharm&logoColor=%23F7DF1E&labelColor=%231F1F1F&color=%23F7DF1E)
 ![Static Badge](https://img.shields.io/badge/Neovim-orange?logo=neovim&logoColor=%2357A143&labelColor=%231F1F1F&color=%2357A143)
 
