@@ -35,6 +35,7 @@
 ![Static Badge](https://img.shields.io/badge/Git-orange?logo=git&logoColor=%23F05032&labelColor=%231F1F1F&color=%23F05032)
 ![Static Badge](https://img.shields.io/badge/Github-black?logo=github&logoColor=%23ffffff&labelColor=%231F1F1F&color=%23181717)
 ![github pages](https://img.shields.io/static/v1?label=%20&message=Github%20Pages&color=%23222222&labelColor=%23ff000000&logo=githubpages&logoColor=%23fafafa)
+![Static Badge](https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=%232496ED&labelColor=%231f1f1f&color=%232496ED)
 ![Static Badge](https://img.shields.io/badge/PyPI-blue?logo=pypi&logoColor=%233775A9&labelColor=%231F1F1F&color=%233775A9)
 ![Static Badge](https://img.shields.io/badge/Composer-brown?logo=composer&logoColor=%23885630&labelColor=%231F1F1F&color=%23885630)
 ![Static Badge](https://img.shields.io/badge/NPM-red?logo=npm&logoColor=%23CB3837&labelColor=%231F1F1F&color=%23CB3837)
