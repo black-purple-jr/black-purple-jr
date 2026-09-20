@@ -28,6 +28,8 @@
 ![Static Badge](https://img.shields.io/badge/PyQt-blue?logo=qt&logoColor=%2341CD52&labelColor=%231F1F1F&color=%2341CD52)
 ![Static Badge](https://img.shields.io/badge/Node.js-green?logo=node.js&logoColor=%235FA04E&labelColor=%231F1F1F&color=%235FA04E)
 ![Static Badge](https://img.shields.io/badge/Express.js-black?logo=Express&logoColor=%23ffffff&labelColor=%231F1F1F&color=%230A0A0A)
+![Static Badge](https://img.shields.io/badge/XML-violet?logo=xml&logoColor=%23005FAD&labelColor=%231f1f1f&color=%23005FAD)
+![Static Badge](https://img.shields.io/badge/Kotlin-violet?logo=kotlin&logoColor=%237F52FF&labelColor=%231f1f1f&color=%237F52FF)
 ![Static Badge](https://img.shields.io/badge/Markdown-black?logo=Markdown&logoColor=%23ffffff&labelColor=%231F1F1F&color=%23ffffff)
 
 
