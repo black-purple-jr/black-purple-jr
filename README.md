@@ -7,7 +7,7 @@
   "lastName": "DAKIR ALLAH",
   "nickname": "black-purple-jr",
   "location": "Morocco",
-  "domains": ["Full-stack web development", "Desktop GUIs"]
+  "domains": ["Full-stack web dev", "Desktop GUIs", "Mobile apps dev"]
 }
 
 ```
