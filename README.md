@@ -46,6 +46,7 @@
 ![Static Badge](https://img.shields.io/badge/Composer-brown?logo=composer&logoColor=%23885630&labelColor=%231F1F1F&color=%23885630)
 ![Static Badge](https://img.shields.io/badge/NPM-red?logo=npm&logoColor=%23CB3837&labelColor=%231F1F1F&color=%23CB3837)
 ![Static Badge](https://img.shields.io/badge/React%20router-white?logo=reactrouter&logoColor=%23CA4245&labelColor=%231F1F1F&color=%23CA4245)
+![Static Badge](https://img.shields.io/badge/Postman-orange?logo=postman&logoColor=%23FF6C37&labelColor=%231f1f1f&color=%23FF6C37)
 ![Static Badge](https://img.shields.io/badge/Vite-purple?logo=vite&logoColor=%239135FF&labelColor=%231F1F1F&color=%239135FF)
 ![Static Badge](https://img.shields.io/badge/Zed-blue?logo=zedindustries&logoColor=%23084CCF&labelColor=%231F1F1F&color=%23084CCF)
 ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-blue?logoColor=%230175C2&labelColor=%231F1F1F&color=%230175C2)
