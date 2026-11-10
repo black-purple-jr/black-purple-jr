@@ -8,9 +8,9 @@
   "nickname": "black-purple-jr",
   "location": "Morocco",
   "domains": [
-      "Full-stack web dev",
+      "Full-stack web development",
       "Desktop GUIs",
-      "Mobile apps dev"
+      "Mobile apps development"
   ]
 }
 
