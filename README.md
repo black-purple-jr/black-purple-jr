@@ -16,10 +16,15 @@ stack:
   <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" alt="Tailwind" />
   <img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50" alt="BootStrap5" />
   <img src="https://skillicons.dev/icons?i=javascript" width="50" height="50" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=typescript" width="50" height="50" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python" />
   <img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node" />
+  <img src="https://skillicons.dev/icons?i=express" width="50" height="50" alt="Express" />
+  <img src="https://skillicons.dev/icons?i=kotlin" width="50" height="50" alt="Kotlin" />
   <img src="https://skillicons.dev/icons?i=php" width="50" height="50" alt="PHP" />
   <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" alt="MySQL" />
-  <img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="MongoDB" />
   <img src="https://skillicons.dev/icons?i=markdown" width="50" height="50" alt="Markdown" />
 
 </div>
@@ -32,8 +37,9 @@ stack:
   <img src="https://skillicons.dev/icons?i=docker" width="50" height="50" alt="Docker"/>
   <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="Visual Studio Code"/>
   <img src="https://skillicons.dev/icons?i=pycharm" width="50" height="50" alt="PyCharm"/>
+  <img src="https://skillicons.dev/icons?i=idea" width="50" height="50" alt="IntelliJ"/>
+  <img src="https://skillicons.dev/icons?i=androidstudio" width="50" height="50" alt="Android Studio"/>
   <img src="https://skillicons.dev/icons?i=neovim" width="50" height="50" alt="Neovim"/>
-  <img src="https://skillicons.dev/icons?i=sublime" width="50" height="50" alt="sublime"/>
   <img src="https://skillicons.dev/icons?i=vite" width="50" height="50" alt="vite"/>
   <img src="https://skillicons.dev/icons?i=npm" width="50" height="50" alt="npm"/>
   
