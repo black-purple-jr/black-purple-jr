@@ -9,8 +9,8 @@
   "location": "Morocco",
   "fields": [
       "Full-stack web development",
-      "Desktop GUIs",
-      "Mobile apps development"
+      "Mobile apps development",
+      "Desktop GUIs"
   ]
 }
 
